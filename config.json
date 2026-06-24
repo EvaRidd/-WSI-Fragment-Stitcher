@@ -1,0 +1,14 @@
+{
+  "_comment": "Конфигурация memory-efficient WSI Stitcher",
+
+  "thumb_max_px":   2000,
+  "target_mb":      200,
+  "output_level":   null,
+
+  "refine_patches":  6,
+  "refine_patch_px": 2048,
+
+  "write_full_tiff": true,
+  "tile_size":       1024,
+  "blend_band_px":   256
+}
